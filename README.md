@@ -169,7 +169,7 @@ before, lockjaw should feel familiar.
   → [`#[binds_option_of]`](https://docs.rs/lockjaw/latest/lockjaw/module_attributes/attr.binds_option_of.html)
   Allow some bindings to be missing
 * [Factories](https://github.com/google/auto/tree/master/factory)
-  → [`#[facotry]`](https://docs.rs/lockjaw/latest/lockjaw/injectable_attributes/attr.factory.html)
+  → [`#[factory]`](https://docs.rs/lockjaw/latest/lockjaw/injectable_attributes/attr.factory.html)
   create objects with both injected fields and runtime fields.
 * [Hilt](https://dagger.dev/hilt/)
   → [`#[define_component]`](https://docs.rs/lockjaw/latest/lockjaw/attr.define_component.html) / [
